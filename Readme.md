@@ -2,7 +2,7 @@
 
 A polished browser-based space combat game — built entirely with **vanilla HTML, CSS, and JavaScript**. No frameworks, no engines, no external assets. Just one file.
 
-**[▶ Play it live](#) (https://github.com/hamedabdullahmachrur/voidrunner-game)** 
+**[▶ Play it live](https://hamedabdullahmachrur.github.io/voidrunner-game/)**
 
 ![No dependencies](https://img.shields.io/badge/dependencies-none-5ef1c4?style=flat-square)
 ![Vanilla JS](https://img.shields.io/badge/JavaScript-vanilla-7c6ff2?style=flat-square)
